@@ -49,10 +49,11 @@ Motivated and detail-oriented **Computer Science graduate** with a strong backgr
 
 ---
 
-**🔬 Comb-Lab Organization**  
-*Research & Development Contributor*  
-- Collaborating on computational research projects in **HPC & molecular simulations**.  
-- Supporting reproducible pipelines and contributing to open-source codebases.
+## 🔬 Comb-Lab Organization**  
+
+- **Research & Development Contributor**  
+ - Collaborating on computational research projects in **HPC & molecular simulations**.  
+ - Supporting reproducible pipelines and contributing to open-source codebases.
 
 ---
 
@@ -63,7 +64,7 @@ Motivated and detail-oriented **Computer Science graduate** with a strong backgr
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Status  
 
 ![Drashti's GitHub stats](https://github-readme-stats.vercel.app/api?username=dshah2924&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dshah2924&layout=compact&theme=radical)  
@@ -76,4 +77,4 @@ Motivated and detail-oriented **Computer Science graduate** with a strong backgr
 - 💼 [LinkedIn](https://www.linkedin.com/in/sdrashti29/)  
 
 ---
-✨ *Thanks for visiting my profile! Feel free to explore my projects and connect with me.*  
+ *Thanks for visiting my profile! Feel free to explore my projects and connect with me.*  
