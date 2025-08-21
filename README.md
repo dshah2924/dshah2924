@@ -1,7 +1,7 @@
 # 👩‍💻 Hi there, I'm Drashti Shah!  
 
 🚀 **Computer Science Graduate | Technical Support Specialist | Web & Software Developer**  
-Motivated and detail-oriented CS graduate with hands-on experience in **technical support, web development, and software engineering**. Passionate about solving problems, building user-friendly applications, and contributing to innovative projects.  
+Motivated and detail-oriented **Computer Science graduate** with a strong background in **software development, web technologies, and HPC testing**. Skilled in **front-end React development, back-end Django, API design, database management, and Android app development**. Proven ability to collaborate in team environments and deliver high-quality projects. Currently seeking opportunities to leverage my skills and contribute to innovative projects.  
 
 ---
 
@@ -20,15 +20,21 @@ Motivated and detail-oriented CS graduate with hands-on experience in **technica
 
 - **Software Developer Intern – Our National Conversation (ONC)** (2025 – Present)  
   - Built responsive UI components in **React** from Figma designs.  
-  - Deployed apps on **AWS**, ensuring seamless frontend-backend integration.  
+  - Deployed apps on **AWS**, ensuring seamless frontend-backend integration.
+
+- **Student Assistant (HPC Testing) – California State University, Los Angeles**  
+  - Conducted **HPC cluster testing** for reliability and performance.  
+  - Supported researchers with **large-scale data workflows & job submissions**.  
+  - Debugged **data pipeline errors** and documented testing results.  
 
 - **Graduate Assistant – California State University, Los Angeles**  
   - Supported students with **Python labs, simulation modeling, and Monte Carlo methods**.  
   - Assisted in troubleshooting, debugging, and project guidance.  
 
-- **Junior Web Developer – InfoLabz IT Services Pvt. Ltd.**  
-  - Developed web apps with **React, Django, Android, and PHP**.  
-  - Integrated APIs and built dynamic business data interfaces.  
+- **Junior Web Developer – InfoLabz IT Services Pvt. Ltd.**   
+  - Developed and maintained **React-based web apps** and APIs with Django.  
+  - Built **Android apps** with material design and web service integration.  
+  - Delivered dynamic, data-driven **single-page applications**.  
 
 ---
 
@@ -40,6 +46,13 @@ Motivated and detail-oriented CS graduate with hands-on experience in **technica
 - **Cliff Walking (Reinforcement Learning)** – Explored RL for grid navigation, policy evaluation, and optimization.  
 - **Scan Me for Info App** – QR-based ID system for Alzheimer’s patients and children.  
 - **SPA (Single Page Application)** – UI for dynamic data presentation for businesses.  
+
+---
+
+**🔬 Comb-Lab Organization**  
+*Research & Development Contributor*  
+- Collaborating on computational research projects in **HPC & molecular simulations**.  
+- Supporting reproducible pipelines and contributing to open-source codebases.
 
 ---
 
