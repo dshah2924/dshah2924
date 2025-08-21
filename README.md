@@ -49,7 +49,7 @@ Motivated and detail-oriented **Computer Science graduate** with a strong backgr
 
 ---
 
-## 🔬 Comb-Lab Organization**  
+## 🔬 Comb-Lab Organization
 
 - **Research & Development Contributor**  
  - Collaborating on computational research projects in **HPC & molecular simulations**.  
